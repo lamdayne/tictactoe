@@ -24,7 +24,3 @@ Tic Tac Toe là một trò chơi hai người chơi, nơi người chơi lần l
 3. Theo dõi các lời nhắc để chơi với X hoặc O.
 4. Nhập số ô mà bạn muốn đặt dấu (1-9).
 
-## Ví dụ về gameplay
-----------------
-
-Đây là một ví dụ về cách chơi trò chơi:
